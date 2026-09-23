@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 int main() {
-    int nums[] = {3, 2, 4};
-int n = 3;
-int target = 6;
+    int nums[] = {2, 7, 11, 15};
+    int n = 4;
+    int target = 9;
 
     int found = 0;
 
